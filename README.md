@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Heyeman Urgessa - [Github](https://github.com/heyeman) / [Twitter](https://twitter.com/_heyeman_)  
+Tinsaye Simeneh - [Github](https://github.com/tinsaye-simeneh) / [Twitter](https://twitter.com/tinsaye_simeneh)  
 
 
 ## License
